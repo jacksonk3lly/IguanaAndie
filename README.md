@@ -216,4 +216,4 @@ To exit Andie, simply go to **File > Exit** or close the application window.
 ## Additional Comments
 
 - Code often needs to be run using Gradle. VSCode sometimes turns up compiler errors for no apparent reason. 
-# IguanaAndie
+<img width="1466" alt="Screenshot 2024-07-12 at 11 38 13 AM" src="https://github.com/user-attachments/assets/06683f65-747b-4b0e-8033-d400f47f4977">
